@@ -15,7 +15,7 @@ importers:
         specifier: ^4.19.2
         version: 4.22.1
       express-useragent:
-        specifier: ^1.0.15
+        specifier: 1.0.15
         version: 1.0.15
 
 packages:
